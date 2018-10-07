@@ -6,9 +6,9 @@
 	<iostream>
 	<cstdlib>
 
-1538898264 source:d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\main_app.cpp
+1538930211 source:d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\main_app.cpp
 	<iostream>
-	"bit.h"
+	"ds/bits.h"
 
 1538898186 source:d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\bit.cpp
 	"bit.h"
@@ -17,4 +17,12 @@
 	<iostream>
 	<iomanip>
 	<cstdlib>
+
+1538930333 source:d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\ds\bits.cpp
+	"bits.h"
+
+1538930333 d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\ds\bits.h
+	<iostream>
+	<cstdlib>
+	<bitset>
 
