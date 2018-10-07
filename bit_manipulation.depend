@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1538890180 source:d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\basic_bits_operations.cpp
+	"basic_bits_operations.h"
+
+1538890201 d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\basic_bits_operations.h
+	<iostream>
+	<cstdlib>
+
+1538898264 source:d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\main_app.cpp
+	<iostream>
+	"bit.h"
+
+1538898186 source:d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\bit.cpp
+	"bit.h"
+
+1538898243 d:\code\cpp\codeblock\projects\bit_manipulation\bit_manipulation\bit.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
